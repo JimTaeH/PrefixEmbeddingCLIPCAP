@@ -7,3 +7,4 @@
 2. ติดตั้ง Package ตาม requirements.txt ของ Repository นี้ (หลัก ๆ ประกอบด้วย torch 1.13.0 + CUDA, transformers, evaluate, rouge_score, wandb)
 3. git clone [CLIP](https://github.com/openai/CLIP)
 4. ติดตั้ง Package ตาม requirements.txt ใน CLIP ข้อ 3.
+5. ดาวน์โหลด Weigths ของ CLIP Prefix Caption, CLIP Model, และตัว Tokenizer ของ GPT-2 (ดูตัวอย่างได้ใน Colab)
