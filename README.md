@@ -8,3 +8,6 @@
 3. git clone [CLIP](https://github.com/openai/CLIP)
 4. ติดตั้ง Package ตาม requirements.txt ใน CLIP ข้อ 3.
 5. ดาวน์โหลด Weigths ของ CLIP Prefix Caption, CLIP Model, และตัว Tokenizer ของ GPT-2 (ดูตัวอย่างได้ใน Colab)
+
+Disclaimer: This repository use for educational only.
+Thanks to https://github.com/rmokady/CLIP_prefix_caption
